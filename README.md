@@ -15,6 +15,7 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+# proyecto realizado con Next.js
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
